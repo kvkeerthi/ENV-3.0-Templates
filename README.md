@@ -4,8 +4,9 @@ Contrail Heat 3.0
 ENV Templates 
 
 
-contrail-left-nw-policy.env   - Will allow to add NW Policy to the exiting Virtual Network.
-contrail-right-nw-policy.env  - Will allow to add NW Policy to the exiting Virtual Network.
+contrail-left-nw-policy.env   - Will allow to add NW Policy to the exiting Virtual Network
+
+contrail-right-nw-policy.env  - Will allow to add NW Policy to the exiting Virtual Network
 
 contrail-nw.env	              - Will allow to create Virtual Network
 

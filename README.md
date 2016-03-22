@@ -12,4 +12,4 @@ contrail-nw.env	              - Will allow to create Virtual Network
 
 contrail-sc-v1.env            - Will create Service Template V1
                                 Will create Service Instance
-                                Will attach static prefix
+                                Will attach static route prefix

@@ -50,3 +50,9 @@ contrail-vm-port-mirror.env
 
           - Will creates 2 nova VM using existing VN’s 
           - Will enables port mirroring for left interface to and existing analyzer as SI with shared IP
+
+contrail-mirror-sc-template-V2.env
+
+          - Will creates nova vm using existing VN's
+          - Will creates v2 template
+          - Will creates SI with shared IP using v2 Template for Left interface

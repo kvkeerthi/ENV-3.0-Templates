@@ -46,3 +46,7 @@ vn-with-policy.env
 
           - Will create Virtual Network with Network Policy
 
+contrail-vm-port-mirror.env
+
+          - Will creates 2 nova VM using existing VN’s 
+          - Will enables port mirroring for left interface to and existing analyzer as SI with shared IP

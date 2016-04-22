@@ -29,7 +29,7 @@ vn-with-policy.env
 
     - Will create Virtual Network with Network Policy
 
-# V1 and V2 Templates
+# V1 and V2 SI Templates
 
 contrail-sc-v1.env            
 
@@ -96,3 +96,8 @@ contrail-in-network-nat-sc-v2.env
 contrail-vm-v4v6.env
 
     - Will create a VM using exiting Virtual Network that has v4 and v6 subnets.
+    
+# Services Templates
+
+contrail-bgp-asaservice.env
+    - Will create BGP as a service for an exiting VMI

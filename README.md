@@ -101,6 +101,11 @@ contrail-sc-v4v6.env
 
     - Will create a SI using exiting Virtual Network that has v4 and v6 subnets.
 
+contrail-vm-sub-interface.env
+
+    - Will create 1 VM using exiting Virtual Network
+    - Will create SUB-INTERFACE with VLAN 10 using LEFT Interface as Parent VMI
+
 
 # Services Templates
 

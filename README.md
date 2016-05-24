@@ -6,7 +6,7 @@
 
 contrail-sg.env
 
-    - Will allow to create SG
+    - Will allow to create Security Group
     - Will allow to create v4 & v6 rules along with SCTP rule
 
 contrail-vn-v4v6.env
